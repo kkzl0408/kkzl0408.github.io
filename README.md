@@ -10,4 +10,4 @@ git status
 git push
 git pull
 
-
+git add
