@@ -12,3 +12,4 @@ git pull
 
 git add
 git commit
+远程修改1
